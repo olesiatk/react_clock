@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACE,mBACE,iBAAkB","file":"main.d13840b7.chunk.css","sourcesContent":[".App {\n  &__clock-hidden {\n    visibility: hidden;\n  }\n}\n"]}
